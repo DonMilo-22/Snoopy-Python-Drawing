@@ -1,2 +1,0 @@
-# Snoopy-Python-Drawing
-
